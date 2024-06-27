@@ -3,7 +3,7 @@
 		"player1": "bf-car",
 		"sectionLengths": [],
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "gf-car",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3442,7 +3442,7 @@
 		],
 		"player2": "mom-car",
 		"player3": null,
-		"song": "Something-Spiteful",
+		"song": "Something Spiteful",
 		"stage": "limo",
 		"validScore": true,
 		"sections": 0,
