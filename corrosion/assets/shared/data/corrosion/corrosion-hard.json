@@ -15394,7 +15394,7 @@
 		"song": "Corrosion",
 		"stage": "backyard",
 		"validScore": true,
-		"needsVoices": true,
+		"needsVoices": false,
 		"bpm": 196,
 		"speed": 3.5
 	}
